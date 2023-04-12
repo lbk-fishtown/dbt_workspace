@@ -6,7 +6,7 @@
 -- ensure that only new data is inserted into the tables. 
 -- ==========================================================================
 CREATE OR REPLACE PROCEDURE 
-RANDY_PITCHER_WORKSPACE_DEV.STORED_PROCEDURES.PROCESS_SNOWFLAKE_USAGE_DATA(
+ALBK_PITCHER_WORKSPACE_DEV.STORED_PROCEDURES.PROCESS_SNOWFLAKE_USAGE_DATA(
     DATABASE STRING
 )
 RETURNS STRING
